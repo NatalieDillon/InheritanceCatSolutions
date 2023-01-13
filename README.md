@@ -4,7 +4,9 @@
 
 All the tests in the solution are broken.
 
-To fix them you must appropriately use an C# abstract class with sub classes
+To fix them you must appropriately use an C# abstract class with subclasses
+
+You should include a class diagram showing your finished classes.
 
 The objects you'll be working with are all types of Cat
 
@@ -24,7 +26,7 @@ After a cat has eaten its food their reaction tends to differ between species:
 
     * A Lion will let out a roar
     * A cheetah will let out a snoring sound as it becomes tired following a chase
-    * A domestic cat tends to lets out a purring sound
+    * A domestic cat will let out a purring sound
 
 There is an empty Cat abstract class. 
 Your first task is to figure out what should be put in the abstract class.
