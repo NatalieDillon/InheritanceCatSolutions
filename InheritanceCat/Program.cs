@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using InheritanceCat.Classes;
+
+namespace InheritanceCat
+{
+    internal class Program
+    {
+        static void Main()
+        {
+            DomesticCat cat = new DomesticCat();
+            Console.WriteLine(cat.Eat());
+        }
+    }
+}

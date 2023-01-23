@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceCat", "InheritanceCat\InheritanceCat.csproj", "{9B91C135-BDCC-4E92-B64E-48DA42469069}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceCat", "InheritanceCat\InheritanceCat.csproj", "{9B91C135-BDCC-4E92-B64E-48DA42469069}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceCat.Classes", "InheritanceCat.Classes\InheritanceCat.Classes.csproj", "{EB19D5C5-EDC3-46E2-898F-0D1CF1DD1EBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceCat.Classes", "InheritanceCat.Classes\InheritanceCat.Classes.csproj", "{EB19D5C5-EDC3-46E2-898F-0D1CF1DD1EBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceCat.Tests", "InheritanceCat.Tests\InheritanceCat.Tests.csproj", "{40D0B0FC-BA3A-484B-A41D-82D8812CB271}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceCat.Tests", "InheritanceCat.Tests\InheritanceCat.Tests.csproj", "{40D0B0FC-BA3A-484B-A41D-82D8812CB271}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7940261F-85AA-48C3-A6C3-C0BE61771FA1}"
 	ProjectSection(SolutionItems) = preProject
