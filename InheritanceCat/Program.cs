@@ -6,7 +6,7 @@ namespace InheritanceCat
     {
         static void Main()
         {
-            DomesticCat cat = new DomesticCat();
+            DomesticCat cat = new();
             Console.WriteLine(cat.Eat());
         }
     }

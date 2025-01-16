@@ -3,8 +3,8 @@
     public abstract class Cat
     {
         // Attributes
-        public string Setting { get; init; }
-        public double AverageHeight { get; init; }
+        public string Setting { get; private set; }
+        public double AverageHeight { get; private set; }
         public bool IsAsleep { get; private set; }
 
         // Constructor
